@@ -1,5 +1,5 @@
-# ![HGX](https://github.com/hg-runs/hgx/blob/main/HGX.png) HGX
-Used for beta testin (and likely for distribution as well)
+# ![HGX](https://github.com/hg-runs/hgx/blob/main/HGX.png)
+Used for beta testing (and likely for distribution as well)
 
 ## Installation
 * Download zip file ([HGX-2.8.6.2-Arcane-Fletchings.zip](https://github.com/hg-runs/hgx/blob/main/HGX-2.8.6.2-Arcane-Fletchings.zip))
@@ -17,3 +17,5 @@ I don't remember if anything else has been changed (But I'm pretty sure there is
 
 __In any case: Like with the old one.... No data is transferred! The slack interface is still in but not used__
 
+## Issues
+Either contact me on discord or create an issue in the repository. Whatever is more convenient for you
